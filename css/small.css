@@ -1,0 +1,177 @@
+    @media(max-width:599px){
+        .content{
+            width:97%;
+      
+        }
+        #btnav{
+            color: teal;
+            background-color: white;
+            
+        }
+        
+         #enter{
+         display: flex;
+         flex-direction: column-reverse;
+         justify-content: center;
+         align-items: center;
+     
+         }
+         #enter h1 {
+        
+             font-size: 550%;
+             text-align: end;
+             margin-top: 0px;
+             padding-left: 0%;
+             font-family: 'Bebas Neue', cursive;
+         }
+         #enter p{
+             margin-top: 1px;
+             padding-left: 5%;
+             font-size: 13px;
+         }
+       
+         #buttonJ{
+             margin-right: 20%;
+         }
+         #offer{
+            width:97%;
+             margin-top: 100px;
+             height: 30%;
+             display: flex;
+             flex-direction: column-reverse;
+             justify-content: center;
+             align-items: center;
+             
+         }
+         #offer h4 {
+             display: flex;
+             justify-content: center;
+             align-items: center;
+             font-size: 100%;
+             padding-left: 1%;
+             text-align: center;
+         }
+         #offer p {
+             text-align: center;
+             padding-left: 2%;
+         }
+         .offer1, .offer2, .offer3, .offer4{
+             margin-right: 20%;
+             
+         }
+         .icon{
+             padding-left: 20%;
+         }
+         #image1{
+             display: none;
+         }
+         .line{
+             visibility: hidden;
+         }
+         .header{
+             width: 97%;
+             height: 400px;
+           display: inline-flex;
+         }
+         .fieldset{
+             border: 2px solid red;
+             width: 90%;
+             height: 355px;
+             margin-top: 2%;
+             margin-left: 5%;   
+         }
+         .fieldset p{
+             margin-right: 3%;
+             font-size: 15px;
+         }
+         .login{
+             margin-top: 20px;
+             padding-right: 15%;
+     
+         }
+         #Joinbtn{
+             width: 30%;
+         }
+         .slide{
+             width: 97%;
+             height: 70vh;
+             display: flex; 
+             align-items: center;
+             margin: 0px ;
+         }
+         .slide ol{
+             padding-bottom: 5%;
+         }
+         .slide a{
+             height: 20px;
+             padding-top: 80%;
+         }
+         #foto{
+             height: 50vh;
+         }
+         .footer{
+             width: 97%;
+             height: 90vh;
+             display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-direction: column;
+            background-color: rgb(226, 227, 228);
+            
+         }
+         .footer h4{
+             color: teal;
+             font-size: 200%;
+         }
+        .footer p , a{
+            font-size: 100%;
+        }
+        .footer a{
+            color:red;
+            text-decoration: none;
+            font-size: 100%;
+            
+        }
+        
+        .social-media{
+         width: 97%;
+         height: 20vh;
+         padding-bottom: 0px;
+        
+         
+     }
+     .fa {
+         padding: 10px;
+         font-size: 20px;
+         width: 35px;
+         text-align: center;
+         text-decoration: none;
+         text-decoration-line: none ;
+         
+       }
+     
+      .step1{
+         padding-top: 5%;
+     
+     }
+     
+     .step2 {
+         padding:5% 15% 0 0;
+         font-size: 120%;
+         text-align: center;
+     
+      }
+      .step3{
+          padding-top: 10%;
+          margin-right: 2%;
+      }
+      .copy{
+          
+          margin-bottom: 3%;
+          height: 30px;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+          
+    }

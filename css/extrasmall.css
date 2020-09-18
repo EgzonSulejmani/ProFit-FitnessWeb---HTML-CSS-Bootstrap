@@ -1,0 +1,174 @@
+@media (max-width: 374px){
+   #btnav{
+       color: teal;
+       background-color: white;
+       
+   }
+   
+    #enter{
+    display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: center;
+
+    }
+    #enter h1 {
+   
+        font-size: 550%;
+        text-align: end;
+        margin-top: 0px;
+        padding-left: 0.5%;
+        font-family: 'Bebas Neue', cursive;
+    }
+    #enter p{
+        margin-top: 1px;
+        padding-left: 5%;
+        font-size: 13px;
+    }
+  
+    #buttonJ{
+        margin-right: 20%;
+    }
+    #offer{
+        margin-top: 100px;
+        height: 30%;
+        display: flex;
+	    flex-direction: column-reverse;
+	    justify-content: center;
+        align-items: center;
+        
+    }
+    #offer h4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 100%;
+        padding-left: 15%;
+        text-align: center;
+    }
+    #offer p {
+        text-align: center;
+        padding-left: 15%;
+    }
+    .offer1, .offer2, .offer3, .offer4{
+        margin-right: 20%;
+        
+    }
+    .icon{
+        padding-left: 22%;
+    }
+    #image1{
+        display: none;
+    }
+    .line{
+        visibility: hidden;
+    }
+    .header{
+        width: 99%;
+        height: 400px;
+      display: inline-flex;
+    }
+    .fieldset{
+        border: 2px solid red;
+        width: 90%;
+        height: 360px;
+        padding-top: 1%;
+        margin-left: 5%;   
+    }
+    .fieldset span{
+        font-size: 20px;
+    }
+    .fieldset p{
+        margin-right: 2%;
+        font-size: 15px;
+    }
+    .login{
+        margin-top: 6%;
+        padding-right: 15%;
+
+    }
+    #Joinbtn{
+        width:50%;
+    }
+    .slide{
+        width: 99%;
+        height: 70vh;
+        display: flex; 
+        align-items: center;
+        margin: 0px ;
+    }
+    .slide ol{
+        padding-bottom: 5%;
+    }
+    .slide a{
+        height: 20px;
+        padding-top: 80%;
+    }
+    #foto{
+        height: 50vh;
+    }
+    .footer{
+        width: 99%;
+        height: 90vh;
+        display: flex;
+       justify-content: space-around;
+       align-items: center;
+       flex-direction: column;
+       background-color: rgb(226, 227, 228);
+       
+    }
+    .footer h4{
+        color: teal;
+        font-size: 200%;
+    }
+   .footer p , a{
+       font-size: 100%;
+   }
+   .footer a{
+       color:red;
+       text-decoration: none;
+       font-size: 100%;
+       
+   }
+   
+   .social-media{
+    width: 99%;
+    height: 30vh;
+    padding-bottom: 10px;
+   
+	
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none ;
+    
+  }
+
+ .step1{
+    padding-top: 0px;
+
+}
+
+.step2 {
+    padding:0 15% 0 0;
+    font-size: 100%;
+    text-align: center;
+
+ }
+ .step3{
+     padding-top: 2%;
+ }
+ .copy{
+          
+   margin-bottom: 1%;
+   height: 30px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+   
+}

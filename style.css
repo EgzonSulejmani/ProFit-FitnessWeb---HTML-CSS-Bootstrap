@@ -1,0 +1,247 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.content h4{
+    color: teal;
+}
+#btnav{
+    background-color: white;
+    color: teal;
+}
+#nav a{
+    color: white;
+}
+#nav a:hover{
+    color: teal;
+}
+
+.content{
+    width:100%;
+    height: 700px;
+  
+    background-image: url(images/gym1.jpg);
+
+}
+
+
+#btn{
+    color: white;
+    border-color: teal;
+}
+#btn:hover{
+    color: white;
+    background: teal;
+}
+#enter{
+    color: white;
+    display: inline-flex;
+}
+#enter h1 {
+   
+    font-size: 600%;
+    text-align: end;
+    margin-top: 10%;
+    padding-left: 0.5%;
+    font-family: 'Bebas Neue', cursive;
+}
+#enter p{
+    margin-top: 12%;
+    font-size: 140%;
+    
+}
+#join{
+   
+    padding-left: 22%;
+    transition: 0.03s;
+}
+#offer{
+    width:100%;
+    height: 350px;
+
+     
+}
+.icon{
+    background-repeat: no-repeat;
+    padding-left: 25%;
+   
+}
+
+#offer h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 110%;
+    
+}
+#offer p {
+    text-align: center;
+}
+#people{
+    color: black;
+}
+.header{
+    width: 100%;
+    height: 560px;
+  display: inline-flex;
+}
+#image1{
+    width: 50%;
+    height: 550px;
+    background-image: url(images/rocky.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    
+}
+.line{
+    background-color: red;
+    width: 0.1%;
+    height: 540px;
+}
+.fieldset{
+    border: 2px solid red;
+    width: 30%;
+    height: 325px;
+    margin:4% 0 0 2%;
+    display: block;  
+    text-align:justify;
+    
+   
+}
+.fieldset span  {
+    font-size: 150%;
+   display: flex;
+   justify-content: center;
+   align-items: baseline;
+   
+   
+}
+#Joinbtn{
+    margin-top: 20%;
+}
+
+.slide{
+    width: 80%;
+    height: 70vh;
+    display: flex; 
+    align-items: center;
+    margin-left: 10%;
+}
+ .slide h3{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: red;
+     font-size: 350%;
+     font-family: 'Bebas Neue', cursive;
+     
+ }
+ .slide ol{
+     padding-bottom: 5%;
+ }
+ #Joinbtn{
+     width: 25%;
+ }
+ 
+
+ .footer{
+     width: 100%;
+     height: 20vh;
+     display: flex;
+	justify-content: space-around;
+    align-items: center;
+    background-color: rgb(226, 227, 228);
+    margin-top: 3%;
+    
+ }
+ .footer h4{
+     color: teal;
+     font-size: 230%;
+ }
+.footer p{
+    font-size: 110%;
+}
+.footer a{
+    color:red;
+    text-decoration: none;
+    font-size: 120%;
+    
+}
+.footer a:hover{
+    text-decoration: none;
+    color: teal;
+}
+hr{
+    
+    border-top: 1px solid #747474;
+}
+
+.social-media{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none ;
+    
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: white;
+    color: red;
+    border-radius: 1px solid red;
+  }
+  .fa-instagram {
+    background: white;
+    color: red;
+  }
+  .fa-twitter {
+    background: whitesmoke;
+    color: red;
+  }
+  .step2 {
+     padding-right: 10%;
+     font-size: 250%;
+     font-family: 'Permanent Marker', cursive;
+     
+  }
+  .bold{
+      color:red;
+  }
+ 
+  .step2  h4{
+      font-size: 200%;
+  }
+  #top {
+  
+    color: #ffffff;
+    background: red;
+  
+}
+.step3 a:hover{
+    text-decoration: none;
+    color: white;
+    background: black;
+}
+.copy{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+
